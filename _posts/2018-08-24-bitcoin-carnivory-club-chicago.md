@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bitcoin Carnivory Club Chicago"
-date: 2014-04-30
+date: 2018-08-24
 ---
 
 Bitcoin Carnivory Club is proud to present a Carnivory dinner in the city of Chicago!

@@ -1,6 +1,5 @@
 name: Bitcoin Banquets
 title: Bitcoin Banquets
-markdown: kramdown
 permalink: /:year/:month/:day/:title
 theme: jekyll-theme-primer
 plugins:

@@ -244,6 +244,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed
+  jekyll-theme-primer
 
 BUNDLED WITH
    1.16.3
