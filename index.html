@@ -2,8 +2,8 @@
 layout: default
 title: Bitcoin Banquets
 ---
-
-{% for post in site.posts | sort: 'date', 'first' %}
+{% assign sorted = site.posts | sort: 'date' | reverse %}
+{% for post in sorted %}
 <h1>{{post.title}}</h1>
 <h3>{{ post.date | date_to_string }}</h3>
 <div>
