@@ -12,4 +12,4 @@ Tone Vays and Jimmy Song are the hosts and you will get delicious Brazilian BBQ 
 
 Please note you will NOT GET IN without a ticket. Tickets at the door will cost a lot more, so please pay beforehand.
 
-<button name="button" onclick="https://www.eventbrite.com/e/bitcoin-carnivory-club-chicago-tickets-48786603043">RSVP</button>
+[RSVP](https://www.eventbrite.com/e/bitcoin-carnivory-club-chicago-tickets-48786603043)

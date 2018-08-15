@@ -5,6 +5,7 @@ title: Bitcoin Banquets
 <h1>Bitcoin Banquets</h1>
 {% assign sorted = site.posts | sort: 'date' %}
 {% for post in sorted %}
+{{ post.location }}
 <h3>{{post.title}}</h3>
 <h4>{{ post.date | date_to_string }}</h4>
 <div>
